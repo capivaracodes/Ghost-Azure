@@ -1,0 +1,17 @@
+{
+  "name": "lara-shop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "engines": {
+    "ghost": ">=1.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Matheus Donizete",
+    "email": "math.d@live.com"
+  },
+  "license": "MIT"
+}
